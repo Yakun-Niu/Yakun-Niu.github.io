@@ -2,7 +2,7 @@
 
 ### <font color=black>Yakun Niu 牛亚坤</font>
 
-Yakun Niu (牛亚坤)，an Associate Professor of the School of Computer and Information Engineering, Henan University. He received the Ph.D degree from the Institute of Information Science of Beijing Jiaotong University (BJTU) in 2021, advised by Prof. [Yao Zhao](http://mepro.bjtu.edu.cn/zhaoyao/index.htm). 
+Yakun Niu (牛亚坤)，an Associate Professor of the School of Computer and Information Engineering, Henan University. He received the Ph.D degree from the Institute of Information Science of Beijing Jiaotong University (BJTU) in 2021, advised by Prof. [Yao Zhao](http://mepro.bjtu.edu.cn/zhaoyao/index.htm) (IEEE Fellow). 
 He was a Visiting Student in University of Siena from 2018 to 2019, working with Prof. [Mauro Barni](http://clem.dii.unisi.it/~vipp/mbarni.html) (IEEE Fellow).
 
 
@@ -10,7 +10,9 @@ He was a Visiting Student in University of Siena from 2018 to 2019, working with
 #### <font color=black>One paper has been accepted by ICCV 2025.</font>
 #### <font color=black>One paper has been accepted by Neurocomputing.</font>
 ### <font color=black>Publications</font>
-
+#### 1. Yingjian Chen, Lei Zhang, <font color=black>Yakun Niu#</font>.
+Image splicing detection, localization and attribution via JPEG primary quantization matrix estimation and clustering[J]. IEEE Transactions on
+Information Forensics and Security (TIFS), 2021, Accepted.[[PDF]](https://ieeexplore.ieee.org/document/9622213/)
 #### 1. <font color=black>Yakun Niu</font>, Benedetta Tondi, Rongrong Ni, Yao Zhao, Mauro Barni.
 Image splicing detection, localization and attribution via JPEG primary quantization matrix estimation and clustering[J]. IEEE Transactions on
 Information Forensics and Security (TIFS), 2021, Accepted.[[PDF]](https://ieeexplore.ieee.org/document/9622213/)
