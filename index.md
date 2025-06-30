@@ -7,8 +7,8 @@ He was a Visiting Student in University of Siena from 2018 to 2019, working with
 
 
 ### <font color=red>Recent News~</font>
-#### <font color=red>One paper has been accepted by ICCV 2025.</font>
-#### <font color=red>One paper has been accepted by Neurocomputing.</font>
+#### <font color=blue>One paper has been accepted by ICCV 2025.</font>
+#### <font color=blue>One paper has been accepted by Neurocomputing.</font>
 ### <font color=black>Publications</font>
 #### 1. Yingjian Chen, Lei Zhang, <font color=black>Yakun Niu#</font>.
 ForgeLens: Data-Efficient Forgery Focus for Generalizable Forgery Image Detection, ICCV 2025, Accepted.[[PDF]](https://arxiv.org/abs/2408.13697/)
