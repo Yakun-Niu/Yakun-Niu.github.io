@@ -2,12 +2,13 @@
 
 ### <font color=black>Yakun Niu 牛亚坤</font>
 
-I received the Ph.D degree from the Institute of Information Science of Beijing Jiaotong University (BJTU) in 2021, advised by Prof. [Yao Zhao](http://mepro.bjtu.edu.cn/zhaoyao/index.htm). 
-I was a Visiting Student in University of Siena from 2018 to 2019, working with Prof. [Mauro Barni](http://clem.dii.unisi.it/~vipp/mbarni.html) (IEEE Fellow).
+Yakun Niu (牛亚坤)，an Associate Professor of the School of Computer and Information Engineering, Henan University. He received the Ph.D degree from the Institute of Information Science of Beijing Jiaotong University (BJTU) in 2021, advised by Prof. [Yao Zhao](http://mepro.bjtu.edu.cn/zhaoyao/index.htm). 
+He was a Visiting Student in University of Siena from 2018 to 2019, working with Prof. [Mauro Barni](http://clem.dii.unisi.it/~vipp/mbarni.html) (IEEE Fellow).
 
 
-### <font color=red>News~</font>
-#### <font color=black>One paper has been accepted by IEEE TIFS.</font>
+### <font color=red>Recent News~</font>
+#### <font color=black>One paper has been accepted by ICCV 2025.</font>
+#### <font color=black>One paper has been accepted by Neurocomputing.</font>
 ### <font color=black>Publications</font>
 
 #### 1. <font color=black>Yakun Niu</font>, Benedetta Tondi, Rongrong Ni, Yao Zhao, Mauro Barni.
@@ -31,11 +32,9 @@ images[C]. IEEE International Conference on Image Processing (ICIP), pp.583-587,
 #### 7. <font color=black>Yakun Niu</font>, Xiaolong Li, Yao Zhao, Rongrong Ni. 
 A mathematical analysis of quantized DCT coefficients and its applications
 to image forensics[C]. National Information Hiding Workshop, 2018.
-
 #### 8. Xiaoyu Zhao, <font color=black>Yakun Niu</font>, Rongrong Ni, Yao Zhao. 
 Defocused image splicing localization by distinguishing multiple cues
 between raw naturally blur and artificial blur[C]. International Workshop on Digital-forensics and
 Watermarking (IWDW), 2020.
-  
 #### 9. <font color=black>牛亚坤</font>, 赵耀, 李晓龙. 
 JPEG图像被动取证研究进展综述[J]. 信号处理, 2021.
