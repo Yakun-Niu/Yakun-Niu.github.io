@@ -43,7 +43,7 @@ between raw naturally blur and artificial blur[C]. International Workshop on Dig
 Watermarking (IWDW), 2020.
 #### 12. <font color=black>牛亚坤</font>, 赵耀, 李晓龙. 
 JPEG图像被动取证研究进展综述[J]. 信号处理, 2021.
-#### 13. <font color=black>牛亚坤</font>, Xiangru Chen, Hongjian Yin. 
+#### 13. <font color=black>Yakun Niu</font>, Xiangru Chen, Hongjian Yin. 
 Median filtering forensics using spatial and frequency domain residuals. The Journal of Supercomputing 81.4 (2025): 1-20.
-#### 14. <font color=black>牛亚坤</font>, Xiangru Chen, Yonggan Li. 
+#### 14. <font color=black>Yakun Niu</font>, Xiangru Chen, Yonggan Li. 
 Median filtering detection based on multiple residuals in spatial and frequency domains. Signal, Image and Video Processing 19.6 (2025): 477.
